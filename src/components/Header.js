@@ -14,7 +14,7 @@ export default function Header() {
     
     return (
       <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-          <h1 className="header">Listr</h1>
+          <h1 className="header">MyListr</h1>
         <Lottie 
           options={defaultOptions}
           height={50}
